@@ -13,7 +13,7 @@ I'm **Pranesh Chowdhury**. I'm passionate about doing through technology.
 
 - **Databases**: `MySQL`
 
-- **Competitive Programming**: `Hackerrank`, `Codeforce`, `Beecrowd`
+//- **Competitive Programming**: `Hackerrank`, `Codeforce`, `Beecrowd`
     
 - **Algorithms** , **Data-structures**
 
