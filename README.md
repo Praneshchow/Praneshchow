@@ -19,7 +19,6 @@ I'm **Pranesh Chowdhury**. I'm passionate about doing through technology.
 
 - **Operating System**: `Windows`
 
-![Pranesh98 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranesh98&theme=dark&show_icons=true)
 
 
 ### :hugs: Thank You!
