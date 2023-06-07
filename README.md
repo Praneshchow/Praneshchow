@@ -8,11 +8,11 @@ I'm **Pranesh Chowdhury**. I'm passionate about doing through technology.
 
 ### :gear: My skills include:
 
-- **Languages**: `JavaScript`, `HTML`, `CSS`. `Java`, `C++`, `C`.
+- **Languages**: `JavaScript`, `Python` ,`HTML`, `CSS`. `Java`, `C++`, `C`.
 
-- **Databases**: `MySQL`
+- **Databases**: `MySQL`, `Oracle`
 
-- **Competitive Programming**: `Hackerrank`, `Codeforce`, `Beecrowd`
+- **Competitive Programming**: `Hackerrank`, `Beecrowd`, `Codeforce` 
     
 - **Algorithms** , **Data-structures**
 
