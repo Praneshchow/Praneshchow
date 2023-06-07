@@ -3,7 +3,8 @@
 
 I'm **Pranesh Chowdhury**. I'm passionate about doing through technology. 
 
- [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@PraneshChowdhury&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/praneshchowdhury/)
+ [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@PraneshChowdhury&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/praneshchowdhury/)   
+ ![](https://komarev.com/ghpvc/?username=Pranesh98)
 
 
 ### :gear: My skills include:
@@ -22,6 +23,4 @@ I'm **Pranesh Chowdhury**. I'm passionate about doing through technology.
 
 ### :hugs: Thank You!
 
-Thank you so much for visiting my github profile.
-
-![](https://komarev.com/ghpvc/?username=Pranesh98)
+Thank you so much for visiting my github profile 💛
