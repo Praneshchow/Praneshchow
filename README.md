@@ -9,13 +9,15 @@ I'm **Pranesh Chowdhury**. I'm passionate about doing through technology.
 
 ### :gear: My skills include:
 
-- **Languages**: `JavaScript`, `Python` ,`HTML`, `CSS`. `Java`, `C++`, `C`.
+- **Languages**: `JavaScript`, `Python`, `HTML5`, `CSS3`. `Java`, `C++`, `C`.
+
+- **Framework**: `Bootstrap5`, `Tailwind`
 
 - **Databases**: `MySQL`, `Oracle`
-
-- **Competitive Programming**: `Hackerrank`, `Beecrowd`, `Codeforce` 
     
 - **Algorithms** , **Data-structures**
+
+- **Competitive Programming**: `Hackerrank`, `Beecrowd`, `Codeforce` 
 
 - **Operating System**: `Windows`
 
@@ -23,4 +25,4 @@ I'm **Pranesh Chowdhury**. I'm passionate about doing through technology.
 
 ### :hugs: Thank You!
 
-Thank you so much for visiting my github profile 💛
+Thank you so much for visiting my GitHub profile 💛
