@@ -21,7 +21,7 @@ I'm **Pranesh Chowdhury**. I'm passionate about doing through technology.
 
 - **Operating System**: `Windows`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranesh98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praneshchow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hugs: Thank You!
 
