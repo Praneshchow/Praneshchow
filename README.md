@@ -5,7 +5,7 @@ I'm **Pranesh Chowdhury**. I'm passionate about doing through technology.
 
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@PraneshChowdhury&logo=linkedin&style=flat&color=purple)](https://www.linkedin.com/in/praneshchowdhury/)   
  
-[![](https://visitcount.itsvg.in/api?id=praneshchow&label=Profile%20Views&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Praneshchow&style=for-the-badge)
 
 
 ### :gear: My skills include:
