@@ -12,9 +12,11 @@ I'm **Pranesh Chowdhury**. I'm passionate about doing through technology.
 
 - **Languages**: `JavaScript`, `Python`, `HTML5`, `CSS3`. `Java`, `C++`, `C`.
 
-- **Framework**: `Bootstrap5`, `Tailwind`
+- **Framework**: `Bootstrap5`, `Tailwind CSS`
 
 - **Databases**: `MySQL`, `Oracle`
+
+- **Tools/Technology**: `GitHub/Git`, `Netlify`, `VScode`, `Chrome Dev tools`, `Figma`, `Jupyter Notebooks`. 
     
 - **Algorithms** , **Data-structures**
 
