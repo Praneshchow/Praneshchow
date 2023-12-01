@@ -18,7 +18,7 @@ I'm **Pranesh Chowdhury**. I'm passionate about doing through technology.
 
 - **Tools/Technology**: `GitHub/Git`, `Netlify`, `VScode`, `Chrome Dev tools`, `Figma`, `Jupyter Notebooks`. 
     
-- **Algorithms** , **Data-structures**
+- Good understanding of **Algorithms**, **Data-structures**, and **Machine Learning**.
 
 - **Competitive Programming**: `Hackerrank`, `Beecrowd`, `Codeforce` 
 
