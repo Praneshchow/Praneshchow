@@ -8,7 +8,7 @@ I'm **Pranesh Chowdhury**. I'm passionate about doing through technology.
 ![](https://komarev.com/ghpvc/?username=Praneshchow&color=blueviolet&style=for-the-badge)
 
 
-### 🥇 My skills include:
+### 🥇 My skills:
 
 - **Languages**: `JavaScript`, `Python`, `HTML5`, `CSS3`. `Java`, `C++`, `C`.
 
