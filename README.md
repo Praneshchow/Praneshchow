@@ -1,6 +1,6 @@
 
 <div>
-	 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&duration=4000&color=00cbf3&center=true&vCenter=true&multiline=true&width=300&height=65&lines=Hello+World+%F0%9F%91%8B">
+	 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&duration=4000&color=00cbf3&center=true&vCenter=true&multiline=true&width=200&height=55&lines=Hello+World+%F0%9F%91%8B">
 </div>
 
 I'm **Pranesh Chowdhury**. I'm passionate about doing through technology. 
