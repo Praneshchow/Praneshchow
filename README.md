@@ -1,6 +1,6 @@
 
-<div align="center">
-	 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&duration=4000&color=00cbf3&multiline=true&width=300&height=65&lines=Hi+%F0%9F%91%8B">
+<div>
+	 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&duration=4000&color=00cbf3&center=true&vCenter=true&multiline=true&width=300&height=65&lines=Hello+World+%F0%9F%91%8B">
 </div>
 
 I'm **Pranesh Chowdhury**. I'm passionate about doing through technology. 
@@ -14,6 +14,8 @@ I'm **Pranesh Chowdhury**. I'm passionate about doing through technology.
 
 - **Languages**: `JavaScript`, `Python`, `HTML5`, `CSS3`. `Java`, `C++`, `C`.
 
+- **Library**: `React.JS`
+
 - **Framework**: `Bootstrap5`, `Tailwind CSS`
 
 - **Databases**: `MySQL`, `Oracle`
@@ -26,7 +28,14 @@ I'm **Pranesh Chowdhury**. I'm passionate about doing through technology.
 
 - **Operating System**: `Windows`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praneshchow&theme=tokyonight)
+
+## Stats
+<br/>
+<div>
+	<img src="https://gh-readme.vercel.app/api?username=praneshchow&show_icons=true&include_all_commits=true&count_private=true&count_private=true&hide_border=true&title_color=00cbf3&text_color=00cbf3&icon_color=00cbf3&bg_color=040506&hide_rank=true&line_height=28" />
+	<img src="https://gh-readme.vercel.app/api/top-langs/?username=praneshchow&layout=compact&langs_count=10&hide_border=true&title_color=00cbf3&text_color=00cbf3&icon_color=00cbf3&bg_color=040506&card_width=220" />
+</div>
+
 
 ### :hugs: Thank You!
 
